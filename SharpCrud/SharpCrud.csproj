@@ -2,8 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <PackageId>SharpCrud</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mohammad Ayaad</Authors>
+    <Description>A library providing base interfaces for CRUD , CRUD-list actions with async and sync versions</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MohammadAyaad/SharpCrud</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MohammadAyaad/SharpCrud</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>crud;</PackageTags>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageIcon>logo.png</PackageIcon>
+    <Copyright>© 2025 Mohammad Ayaad. Licensed under the Apache License, Version 2.0.</Copyright>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="/" />
+    <None Include="../LICENSE" Pack="true" PackagePath="/" />
+    <None Include="../logo.png" Pack="true" PackagePath="/" />
+  </ItemGroup>
 
 </Project>

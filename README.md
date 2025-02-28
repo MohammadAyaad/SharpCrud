@@ -1,3 +1,6 @@
+<img src="logo.png" alt="Logo" width="400" style="display:block; margin:auto;">
+<hr>
+
 # SharpCrud
 
 SharpCrud is a .NET library designed to standardize CRUD (Create, Read, Update, Delete) operations through interfaces, promoting clean architecture and separation of concerns. It provides both synchronous and asynchronous interfaces for single and bulk operations, making it easy to implement consistent data access patterns.
