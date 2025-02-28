@@ -1,0 +1,11 @@
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/bin/Debug/net8.0/SharpCrud.deps.json
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/bin/Debug/net8.0/SharpCrud.dll
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/bin/Debug/net8.0/SharpCrud.pdb
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.AssemblyInfoInputs.cache
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.AssemblyInfo.cs
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.csproj.CoreCompileInputs.cache
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.dll
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/refint/SharpCrud.dll
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/SharpCrud.pdb
+/home/mohammad/Workspace/Fix/SharpCrud/SharpCrud/obj/Debug/net8.0/ref/SharpCrud.dll
